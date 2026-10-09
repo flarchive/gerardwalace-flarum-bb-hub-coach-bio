@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of gerardwalace/flarum-bb-hub-coach-bio.** Not for installation: use [Packagist](https://packagist.org/packages/gerardwalace/flarum-bb-hub-coach-bio) or the [upstream repository](https://github.com/GerardWalace/FlarumBbHubCoachBio).
 
-**0** versions archived · Latest: [`v2.0.1`](https://github.com/flarchive/gerardwalace-flarum-bb-hub-coach-bio/tree/archive/v2.0.1) · License: `MIT` · Flarum: `^2.0`
+**5** versions archived · Latest: [`v2.0.1`](https://github.com/flarchive/gerardwalace-flarum-bb-hub-coach-bio/tree/archive/v2.0.1) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.0.1` | 2024-10-20 | `^1.2.0` | [Browse](https://github.com/flarchive/gerardwalace-flarum-bb-hub-coach-bio/tree/archive/v0.0.1) |
+| `v0.0.2` | 2024-10-20 | `^1.2.0` | [Browse](https://github.com/flarchive/gerardwalace-flarum-bb-hub-coach-bio/tree/archive/v0.0.2) |
+| `v2.0.0-beta1` | 2026-06-17 | `^2.0` | [Browse](https://github.com/flarchive/gerardwalace-flarum-bb-hub-coach-bio/tree/archive/v2.0.0-beta1) |
+| `v2.0.0-rc.1` | 2026-08-26 | `^2.0` | [Browse](https://github.com/flarchive/gerardwalace-flarum-bb-hub-coach-bio/tree/archive/v2.0.0-rc.1) |
+| `v2.0.1` | 2026-10-09 | `^2.0` | [Browse](https://github.com/flarchive/gerardwalace-flarum-bb-hub-coach-bio/tree/archive/v2.0.1) |
 
 Catalog entry: [packages/gerardwalace-flarum-bb-hub-coach-bio.json](https://github.com/flarchive/archive-index/blob/main/packages/gerardwalace-flarum-bb-hub-coach-bio.json)
 
